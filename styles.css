@@ -57,3 +57,26 @@ img {
     margin-bottom: 20px;
     color: #555;
 }
+
+#timeline {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+#timeline h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+#timeline ul {
+    list-style-type: none;
+}
+
+#timeline li {
+    margin-bottom: 10px;
+    line-height: 1.4;
+}
+
+#timeline li strong {
+    color: #000;
+}
